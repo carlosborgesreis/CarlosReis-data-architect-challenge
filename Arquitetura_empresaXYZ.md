@@ -43,4 +43,4 @@ Nossos dados estruturados e semiestruturados e catalogados no BigQuery podem ser
 
 ## Governança e DataOps
 
-Aqui, Escolho as duas soluções nativas da GCP, `Data Catalog`, que se integra facilmente ao Bigquery, cataloga e organiza os dados, e `Cloud Build`, que facilita a implementação de um pipeline robusto com poucos cliques, poupando tempo de implementação de outras ferramentas como `Jenkins`.
+Aqui, escolho as duas soluções nativas da GCP, `Data Catalog`, que se integra facilmente ao Bigquery, cataloga e organiza os dados, e `Cloud Build`, que facilita a implementação de um pipeline robusto com poucos cliques, poupando tempo de implementação de outras ferramentas como `Jenkins`.
