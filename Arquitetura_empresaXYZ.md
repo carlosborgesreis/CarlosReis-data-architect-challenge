@@ -39,8 +39,8 @@ Em uma implementação de Lakehouse, esta é a espinha dorsal que une a escalabi
 
 ## Visualização
 
-Nossos dados estruturados e semiestruturados e catalogados no BigQuery podem ser conectados nativamente a uma vasta gama plataformas de visualização, que, como descrito nos requisitos, utilizaremos mais uma, o que não seria problema nesta arquitetura
+Nossos dados estruturados e semiestruturados e catalogados no BigQuery podem ser conectados nativamente a uma vasta gama plataformas de visualização, que, como descrito nos requisitos, utilizaremos mais uma, o que não seria problema nesta arquitetura.
 
 ## Governança e DataOps
 
-Escolhio as duas soluções nativas da GCP, `Data Catalog`, que se integra facilmente ao Bigquery, e `Cloud Build`, que facilita a implementação de um pipeline robusto com poucos cliques, poupando tempo de implementação de outras ferramentas como `Jenkins`.
+Aqui, Escolho as duas soluções nativas da GCP, `Data Catalog`, que se integra facilmente ao Bigquery, cataloga e organiza os dados, e `Cloud Build`, que facilita a implementação de um pipeline robusto com poucos cliques, poupando tempo de implementação de outras ferramentas como `Jenkins`.
